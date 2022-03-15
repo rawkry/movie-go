@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "npm": "^8.5.3",
+    "react-animate-on-scroll": "^2.1.5"
+    
+  }
+}
